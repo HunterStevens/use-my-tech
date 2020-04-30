@@ -1,0 +1,37 @@
+.user-card {
+  background-color: #1b262c;
+  text-align: center;
+  height: 30vh;
+  color: #fff;
+  padding-top: 30px;
+}
+
+.profile-container h3 {
+  text-align: center;
+}
+
+.user-equipment-container {
+  background-color: lightgray;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.user-renting-contianer {
+  padding: 50px;
+}
+
+.card-holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.owner-button-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.owner-button-container button {
+  width: 45%;
+}
